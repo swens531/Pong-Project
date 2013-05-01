@@ -115,8 +115,8 @@ down = 1;
 //key codes
 key_up = 38;
 key_down = 40;
-key_W = 87;
-key_S = 83;
+key_Q = 87;
+key_A = 83;
 key_pause = 32;
 
 speed = 2;			//controls the speed of the ball
