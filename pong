@@ -76,11 +76,11 @@ A {
 	<table width="300"  border="0" cellspacing="0" cellpadding="0">
 		  <tr>
 			<td>Player 1 Up:</td>
-			<td>W</td>
+			<td>Q</td>
 		  </tr>
 		  <tr>
 			<td>Player 1 Down:</td>
-			<td>S</td>
+			<td>A</td>
 		  </tr>
 		  <tr>
 			<td>Player 2 Up:</td>
